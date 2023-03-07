@@ -5,7 +5,7 @@ function Resume() {
       <div className='aboutstyle'>
         <h1>Resume</h1>
         <h2>Download my Resume <a href={resume} download>Here</a></h2>
-        <img src={resume} style={{ height: "200vh", boxShadow: "0 0 1000px rgba(0, 0, 0, 0.5)", borderRadius: "80px"}}/>
+        <img src={resume} style={{ height: "125vh", boxShadow: "0 0 1000px rgba(0, 0, 0, 0.5)", borderRadius: "80px"}}/>
       </div>
     );
   }
