@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/John-Hagens-Portfolio/static/css/main.2ca0f55f.css",
+    "main.js": "/John-Hagens-Portfolio/static/js/main.60ca940f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/John-Hagens-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/UCF_Resume.png": "/John-Hagens-Portfolio/static/media/UCF_Resume.00c3f9f840eef9da1f5d.png",
+    "index.html": "/John-Hagens-Portfolio/index.html",
+    "main.2ca0f55f.css.map": "/John-Hagens-Portfolio/static/css/main.2ca0f55f.css.map",
+    "main.60ca940f.js.map": "/John-Hagens-Portfolio/static/js/main.60ca940f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/John-Hagens-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ca0f55f.css",
+    "static/js/main.60ca940f.js"
+  ]
+}
