@@ -51,7 +51,7 @@ Go to the internet, type in John Hagens Portfolio, That's it!
 
 <br>
 
-🔭 [Deployment Website](https://lit-depths-94534.herokuapp.com/) 🔭
+🔭 [Deployment Website](https://jonjon50.github.io/) 🔭
 
 ![Photo1](./assets/images/Nannys%20care2.png)
 ![Photo1](./assets/images/Nanny's%20Care1.png)
